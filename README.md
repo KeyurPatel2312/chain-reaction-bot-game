@@ -36,6 +36,8 @@ python3 : ``` sudo apt-get install python3```
  
 python3-flask : ``` pip3 install flask```
 
+### Demo Image of the game
+![Screenshot](board_img.png)
 
 ## **Enjoy playing**!!
 
