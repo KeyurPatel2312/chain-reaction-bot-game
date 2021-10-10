@@ -26,7 +26,7 @@ The game was developed in JavaScript using Phaser 3. The agent was developed in 
 
 ## Getting Started
 
-you can clone the code from repo ""
+you can clone the code from repo "https://github.com/KeyurPatel2312/chain-reaction-game"
 
 run the file main.py as ``` python3 main.py``` and game board will be open.
 
