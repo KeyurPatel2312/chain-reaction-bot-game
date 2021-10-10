@@ -1,4 +1,4 @@
-# Chain Reaction Bot Game
+# Chain Reaction Game
 
 ## Description
 
@@ -20,7 +20,7 @@ orbs(green)
 1, then the player with positive orbs wins and we return a maximum value of 200.
 
 ## Implementation Flow
-
+![Screenshot](implementation_workflow.png)
 
 The game was developed in JavaScript using Phaser 3. The agent was developed in Python and an API was built in Flask to link the game with the agent.
 
